@@ -1,0 +1,9 @@
+c:\users\holo\documents\visual studio 2013\Projects\DiskFiller\DiskFiller\bin\Debug\DiskFiller.exe.config
+c:\users\holo\documents\visual studio 2013\Projects\DiskFiller\DiskFiller\bin\Debug\DiskFiller.exe
+c:\users\holo\documents\visual studio 2013\Projects\DiskFiller\DiskFiller\bin\Debug\DiskFiller.pdb
+c:\users\holo\documents\visual studio 2013\Projects\DiskFiller\DiskFiller\obj\Debug\DiskFiller.csprojResolveAssemblyReference.cache
+c:\users\holo\documents\visual studio 2013\Projects\DiskFiller\DiskFiller\obj\Debug\DiskFiller.Form1.resources
+c:\users\holo\documents\visual studio 2013\Projects\DiskFiller\DiskFiller\obj\Debug\DiskFiller.Properties.Resources.resources
+c:\users\holo\documents\visual studio 2013\Projects\DiskFiller\DiskFiller\obj\Debug\DiskFiller.csproj.GenerateResource.Cache
+c:\users\holo\documents\visual studio 2013\Projects\DiskFiller\DiskFiller\obj\Debug\DiskFiller.exe
+c:\users\holo\documents\visual studio 2013\Projects\DiskFiller\DiskFiller\obj\Debug\DiskFiller.pdb

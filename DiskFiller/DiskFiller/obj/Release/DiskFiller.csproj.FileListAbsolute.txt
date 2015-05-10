@@ -1,0 +1,8 @@
+c:\users\holo\documents\visual studio 2013\Projects\DiskFiller\DiskFiller\bin\Release\DiskFiller.exe.config
+c:\users\holo\documents\visual studio 2013\Projects\DiskFiller\DiskFiller\bin\Release\DiskFiller.exe
+c:\users\holo\documents\visual studio 2013\Projects\DiskFiller\DiskFiller\bin\Release\DiskFiller.pdb
+c:\users\holo\documents\visual studio 2013\Projects\DiskFiller\DiskFiller\obj\Release\DiskFiller.Form1.resources
+c:\users\holo\documents\visual studio 2013\Projects\DiskFiller\DiskFiller\obj\Release\DiskFiller.Properties.Resources.resources
+c:\users\holo\documents\visual studio 2013\Projects\DiskFiller\DiskFiller\obj\Release\DiskFiller.csproj.GenerateResource.Cache
+c:\users\holo\documents\visual studio 2013\Projects\DiskFiller\DiskFiller\obj\Release\DiskFiller.exe
+c:\users\holo\documents\visual studio 2013\Projects\DiskFiller\DiskFiller\obj\Release\DiskFiller.pdb
